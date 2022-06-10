@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdioh>
 
 /**
 * print_number - prints # using _putchar function
